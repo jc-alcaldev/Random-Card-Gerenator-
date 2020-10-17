@@ -1,4 +1,25 @@
 @import "~bootstrap/scss/bootstrap.scss";
+.card {
+  width: 18rem;
+}
+// .firstDiv {
+//   height: 183px;
+// }
+// .centralDiv {
+//   height: 183px;
+// }
+.upSideDown {
+  transform: rotate(180deg);
+}
+.paloa {
+  font-size: 5rem;
+}
+.palob {
+  font-size: 5rem;
+}
+.cardnumber {
+  font-size: 8rem;
+}
 
 /* 
     body{
